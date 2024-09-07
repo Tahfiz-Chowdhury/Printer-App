@@ -4,5 +4,9 @@ public class App {
         System.out.println("Printer App");
         String creator = "Tahfiz.";
         System.out.println("This app is made by: " + creator);
+        int Number1 = 20;
+        int Number2 = 10;
+        System.out.println("The value of Number1 is " + Number1);
+        System.out.println("The value of Number2 is " + Number2);
     }
 }
