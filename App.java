@@ -11,5 +11,8 @@ public class App {
         int Multiplication;
         Multiplication = Number1 * Number2;
         System.out.println(Number1 + " * " + Number2 + " = " + Multiplication);
+        int addition;
+        addition = Number1 + Number2;
+        System.out.println(Number1 + " + " + Number2 + " = " + addition);
     }
 }
