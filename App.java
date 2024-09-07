@@ -17,5 +17,8 @@ public class App {
         int division;
         division = Number1 / Number2;
         System.out.println(Number1 + " / " + Number2 + " = " + division);
+        int substraction;
+        substraction = Number1 - Number2;
+        System.out.println(Number1 + " - " + Number2 + " = " + substraction);
     }
 }
