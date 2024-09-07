@@ -14,5 +14,8 @@ public class App {
         int addition;
         addition = Number1 + Number2;
         System.out.println(Number1 + " + " + Number2 + " = " + addition);
+        int division;
+        division = Number1 / Number2;
+        System.out.println(Number1 + " / " + Number2 + " = " + division);
     }
 }
