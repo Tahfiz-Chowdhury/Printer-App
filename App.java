@@ -10,6 +10,6 @@ public class App {
         System.out.println("The value of Number2 is " + Number2);
         int Multiplication;
         Multiplication = Number1 * Number2;
-        System.out.println(Number1 + " * " + Number1 + " = " + Multiplication);
+        System.out.println(Number1 + " * " + Number2 + " = " + Multiplication);
     }
 }
